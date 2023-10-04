@@ -1,0 +1,10 @@
+Algorithme ex11
+VariablesN, i: entier
+
+Débuta
+Ecrire ("Veuillez entrer un nombre: ")
+Lire (N)
+Pour i <-- N+1 à N+10 pas 1 faire
+Ecrire (i)
+fin Pour
+Fin
